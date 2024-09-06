@@ -1,3 +1,4 @@
 testfile.txt
 *.o
 test.*
+.vscode/*
